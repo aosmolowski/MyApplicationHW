@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyApplicationHW</string>
+    <string name="app_name">My Application</string>
+    <string name="some_txt">Some text</string>
 </resources>

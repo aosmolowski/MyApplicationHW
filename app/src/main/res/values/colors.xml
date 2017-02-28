@@ -3,4 +3,7 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorGorizLL">#ec3c22</color>
+    <color name="colorVertLL">#22cc22</color>
+    <color name="colorTxtView">#FFFFFF</color>
 </resources>
